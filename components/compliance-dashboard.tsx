@@ -214,7 +214,7 @@ export function ComplianceDashboard() {
                         <Zap className="mr-4 mt-1 text-[#EC796B]" />
                         <div>
                           <h4 className="font-semibold">Actively Validated Service (AVS)</h4>
-                          <p>We leverage EigenLayer's AVS to ensure robust, decentralized validation:</p>
+                          <p>We leverage EigenLayer&apos;s AVS to ensure robust, decentralized validation:</p>
                           <ul className="list-disc list-inside ml-4">
                             <li>Multiple operators process and agree on AML checks</li>
                             <li>Majority consensus required to flag a transaction</li>
